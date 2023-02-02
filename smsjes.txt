@@ -1,9 +1,0 @@
-De oorzaak van deze sms'jes waarin wordt gevraagd om het wachtwoord te wijzigen, kan verschillende redenen hebben:
-
-Phishing: Het kan zijn dat de sms'jes afkomstig zijn van een onbekende bron die probeert de medewerker te overtuigen om zijn wachtwoord te onthullen.
-
-Hacking: Het kan zijn dat de account van de medewerker is gehackt en iemand anders probeert het wachtwoord te wijzigen om toegang te krijgen tot de gegevens en informatie in de account.
-
-Technische fout: Het kan zijn dat er een technische fout is in de applicatie waardoor deze regelmatig wachtwoord-veranderingsverzoeken stuurt.
-
-Het is belangrijk om hier snel op te reageren en onderzoek te doen naar de oorzaak van deze sms'jes. Als de medewerker vermoedt dat deze afkomstig zijn van een phishing-poging, dan moet hij deze direct negeren en de IT-afdeling waarschuwen. Als de medewerker vermoedt dat zijn account is gehackt, dan moet hij onmiddellijk contact opnemen met de IT-afdeling om verdere stappen te bespreken.
