@@ -13,26 +13,8 @@ $server = "SRV001";
 $whiteListFile = $home + '\MonTool\WhiteList.txt';
 $signaleringenFile = $home + '\MonTool\Signaleringen.txt';
 
-Measure-Command {0..10000 | ForEach-Object {$i++} } #hiermee meet ik de tijd
-
-Days              : 0
-Hours             : 0
-Minutes           : 0
-Seconds           : 0
-Milliseconds      : 148
-Ticks             : 1482658
-TotalDays         : 1.71603935185185E-06
-TotalHours        : 4.11849444444444E-05
-TotalMinutes      : 0.00247109666666667
-TotalSeconds      : 0.1482658
-TotalMilliseconds : 148.2658
-$executionTime = Measure-Command {0..10000 | ForEach-Object {$i++} } #met dit defineer ik de executiotntime waarmee ik vervolgens minutes output laat zien
-Write-Output $executionTime.minutes
 # *** zorg dat als het aantal minuten wordt meegegeven bij de start deze de default waarde vervangt ***
 # *** zorg dat als een servernaam wordt meegegegevn bij de start dat die de default waarde overschrijft ***
-
-$naam = hostname
-Write-Output $naam
 
 $periode = New-timespan -minutes $minuten;      # bereid de tijdsinterval voor
 $startTijd = Get-Date;
