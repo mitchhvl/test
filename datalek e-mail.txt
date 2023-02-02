@@ -1,0 +1,19 @@
+Betreft: Afdeling Informatiebeveiliging/Juridische zaken
+
+Geachte heer/mevrouw,
+
+Met betrekking tot het recente datalek, wil ik u informeren dat wij gegevens hebben ontdekt die onbevoegd zijn uitgelekt.
+
+Om te voldoen aan de verplichtingen onder de Algemene Verordening Gegevensbescherming (AVG), willen wij u graag op de hoogte stellen van de volgende details:
+
+Oorzaak van het lek: [Geef een beschrijving van de oorzaak van het lek, bijv. een hack, een vergissing, etc.]
+Soorten gegevens betrokken: [Beschrijf de soorten gegevens die zijn uitgelekt, bijv. namen, adressen, e-mailadressen, etc.]
+Aantal betrokken personen: [Geef het aantal personen waarvan de gegevens zijn uitgelekt]
+Wij hebben onmiddellijk actie ondernomen om het lek te stoppen en het is onze prioriteit om de betrokken personen zo snel mogelijk op de hoogte te stellen. Wij hebben tevens maatregelen getroffen om soortgelijke lekken in de toekomst te voorkomen.
+
+Indien u verder nog vragen heeft, aarzel dan niet om contact met ons op te nemen.
+
+Met vriendelijke groet,
+
+Mitch Heuvel
+ICT afdeling Horizoncollege
