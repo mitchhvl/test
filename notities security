@@ -1,0 +1,6 @@
+Is een virusinfectie
+De antivirus staat uit
+De firewall is uitgezet
+Er is geen strong authentication afgedwongen in de database
+Het root passwoord van mysql is root
+Een remote accessool is geïnstaleerd en actief waardoor er op ongecontroleerd wijze toegang verkregen kan worden tot de database
